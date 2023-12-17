@@ -25,6 +25,8 @@ Welcome to my GitHub profile! I'm a passionate Web and Mobile App Developer base
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Thunder Client](https://img.shields.io/badge/Thunder_Client-6F42C1?style=flat&logo=thunder-client&logoColor=white)](https://www.thunderclient.io/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)](https://httpd.apache.org/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
 
 #### Databases
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
@@ -66,14 +68,14 @@ Welcome to my GitHub profile! I'm a passionate Web and Mobile App Developer base
 - DevOps
 - AI / ML
 
-
+<!--
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alliyan732&show_icons=true&theme=radical)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alliyan732&layout=compact&theme=radical)](https://github.com/alliyan732)
 [![Top Languages by Commits](https://github-readme-stats.vercel.app/api/top-langs/?username=alliyan732&langs_count=8&theme=radical&hide=html,css)](https://github.com/alliyan732)
 ![Commit Chart](https://github-readme-streak-stats.herokuapp.com/?user=alliyan732&theme=radical)
-
+-->
 
 ## 📫 Let's connect
 
