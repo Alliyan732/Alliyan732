@@ -1,5 +1,6 @@
 # Hello, I'm Alliyan 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alliyan-alvi)  [![Email](https://img.shields.io/badge/Email-Contact%20Me-<COLOR>?style=for-the-badge&logo=gmail)](mailto:alliyan732@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alliyan-alvi)     [![Gmail](https://img.shields.io/badge/Gmail-Send%20Email-red?style=for-the-badge&logo=gmail)](mailto:alliyan732@gmail.com)
+
 
 [![GitHub followers](https://img.shields.io/github/followers/alliyan732?label=Follow&style=social)](https://github.com/alliyan732)
 
