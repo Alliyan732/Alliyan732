@@ -1,5 +1,5 @@
 # Hello, I'm Alliyan 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alliyan_a;vi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alliyan_alvi)
 
 [![GitHub followers](https://img.shields.io/github/followers/alliyan732?label=Follow&style=social)](https://github.com/alliyan732)
 Welcome to my GitHub profile! I'm a passionate Web and Mobile App Developer based in ISB/RWP. Here you'll find a collection of my projects, contributions, and more.
