@@ -73,10 +73,10 @@ Welcome to my GitHub profile! I'm a passionate Web and Mobile App Developer base
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alliyan732&show_icons=true&theme=radical)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alliyan732&show_icons=true&theme=radical)](https://github.com/alliyan732)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alliyan732&layout=compact&theme=radical)](https://github.com/alliyan732)
-<!-- [![Top Languages by Commits](https://github-readme-stats.vercel.app/api/top-langs/?username=alliyan732&langs_count=8&theme=radical&hide=html,css)](https://github.com/alliyan732) -->
 ![Commit Chart](https://github-readme-streak-stats.herokuapp.com/?user=alliyan732&theme=radical)
+
 
 
 ## 📫 Let's connect
