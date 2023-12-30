@@ -75,7 +75,7 @@ Welcome to my GitHub profile! I'm a passionate Web and Mobile App Developer base
 
 ![Commit Chart](https://github-readme-streak-stats.herokuapp.com/?user=alliyan732&theme=radical)
 
-<--! ![GitHub Activity](https://img.shields.io/github/last-commit/alliyan732/alliyan732?style=flat&logo=github) -->
+<!-- ![GitHub Activity](https://img.shields.io/github/last-commit/alliyan732/alliyan732?style=flat&logo=github) -->
 
 
 
