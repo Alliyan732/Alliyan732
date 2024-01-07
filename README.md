@@ -65,7 +65,7 @@ Welcome to my GitHub profile! I'm a passionate Web and Mobile App Developer base
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
 
 
-## 🌱 I’m currently learning
+## 🌱 I’m currently Exploring
 
 - DevOps
 - AI / ML
