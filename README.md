@@ -75,9 +75,9 @@ Welcome to my GitHub profile! I'm a passionate Web and Mobile App Developer base
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alliyan732&theme=radical)](https://git.io/streak-stats) -->
 
-![Commit Chart](https://github-readme-streak-stats.herokuapp.com/?user=alliyan732&theme=radical)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alliyan732&show_icons=true&locale=en&layout=compact" alt="alliyan732" /></p>
+<!-- ![Commit Chart](https://github-readme-streak-stats.herokuapp.com/?user=alliyan732&theme=radical) -->
+ 
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alliyan732&show_icons=true&locale=en&layout=compact" alt="alliyan732" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alliyan732&show_icons=true&locale=en" alt="alliyan732" /></p>
 
