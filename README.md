@@ -77,6 +77,12 @@ Welcome to my GitHub profile! I'm a passionate Web and Mobile App Developer base
 
 ![Commit Chart](https://github-readme-streak-stats.herokuapp.com/?user=alliyan732&theme=radical)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rising-gmd&show_icons=true&locale=en&layout=compact" alt="rising-gmd" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rising-gmd&show_icons=true&locale=en" alt="rising-gmd" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rising-gmd&" alt="rising-gmd" /></p>
+
 ![GitHub Activity](https://img.shields.io/github/last-commit/alliyan732/alliyan732?style=flat&logo=github) 
 
 
