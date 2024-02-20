@@ -7,7 +7,8 @@
 Welcome to my GitHub profile! I'm a passionate Web and Mobile App Developer based in ISB/RWP. Here you'll find a collection of my projects, contributions, and more.
 
 ## Checkout My Portfolio
-alliyan-portfolio.vercel.app
+
+[My Portfolio](https://alliyan-portfolio.vercel.app/)
 
 ## 🔧 Technologies & Tools
 
